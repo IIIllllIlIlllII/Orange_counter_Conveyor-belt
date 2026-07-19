@@ -47,7 +47,7 @@ cd orange-counter-conveyor-belt
 pip install -r requirements.txt
 ```
 
-Download the trained model weights (`best.pt`) from the [Releases](https://github.com/IIIllllIlIlllII/orange-counter-conveyor-belt/releases) page, or train your own using the provided notebook.
+The trained model weights (`best.pt`) are included in the repository. You can also train your own using the provided notebook.
 
 ## Usage
 
@@ -118,7 +118,6 @@ orange-counter-conveyor-belt/
     ├── demo.gif              # Demo video
     ├── training_curves.png   # Training loss & metrics
     ├── predictions.png       # Sample predictions
-    └── confusion_matrix.png  # Confusion matrix
 ```
 
 ## Tech Stack
