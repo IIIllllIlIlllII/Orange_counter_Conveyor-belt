@@ -1,0 +1,15 @@
+___Perso___/
+*.mp4
+*.avi
+*.mov
+*.zip
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+runs/
+frames/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
