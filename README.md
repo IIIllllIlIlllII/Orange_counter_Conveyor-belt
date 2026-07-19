@@ -36,10 +36,6 @@ The fine-tuned model achieves good performance on the validation set:
 
 ![Predictions](assets/predictions.png)
 
-### Confusion Matrix
-
-![Confusion Matrix](assets/confusion_matrix.png)
-
 ## Quick Start
 
 ```bash
