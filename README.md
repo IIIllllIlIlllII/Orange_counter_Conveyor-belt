@@ -44,14 +44,14 @@ The fine-tuned model achieves good performance on the validation set:
 
 ```bash
 # Clone the repo
-git clone https://github.com/<your-username>/orange-counter-conveyor-belt.git
+git clone https://github.com/IIIllllIlIlllII/orange-counter-conveyor-belt.git
 cd orange-counter-conveyor-belt
 
 # Install dependencies
 pip install -r requirements.txt
 ```
 
-Download the trained model weights (`best.pt`) from the [Releases](https://github.com/<your-username>/orange-counter-conveyor-belt/releases) page, or train your own using the provided notebook.
+Download the trained model weights (`best.pt`) from the [Releases](https://github.com/IIIllllIlIlllII/orange-counter-conveyor-belt/releases) page, or train your own using the provided notebook.
 
 ## Usage
 
