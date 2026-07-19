@@ -115,7 +115,7 @@ orange-counter-conveyor-belt/
 ├── LICENSE
 ├── README.md
 └── assets/
-    ├── demo.mp4              # Demo video
+    ├── demo.gif              # Demo video
     ├── training_curves.png   # Training loss & metrics
     ├── predictions.png       # Sample predictions
     └── confusion_matrix.png  # Confusion matrix
