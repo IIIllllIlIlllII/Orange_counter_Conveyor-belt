@@ -47,7 +47,7 @@ The fine-tuned model achieves good performance on the validation set:
 git clone https://github.com/IIIllllIlIlllII/orange-counter-conveyor-belt.git
 cd orange-counter-conveyor-belt
 
-# Install dependencies
+# Python 3.8+ required (recommended: 3.10 or 3.11)
 pip install -r requirements.txt
 ```
 
