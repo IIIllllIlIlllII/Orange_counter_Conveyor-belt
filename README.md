@@ -4,6 +4,7 @@ Real-time orange detection and counting on a conveyor belt using a **fine-tuned 
 
 Each orange is detected, tracked, and counted as it crosses a counting line — giving a live count overlay on the video.
 
+
 ![Demo](assets/demo.gif)
 
 ## Pipeline
@@ -18,7 +19,7 @@ This project follows a complete ML pipeline, from data collection to deployment:
 
 ## Results
 
-The fine-tuned model achieves strong performance on the validation set:
+The fine-tuned model achieves good performance on the validation set:
 
 | Metric | Value |
 |---|---|
